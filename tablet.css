@@ -1,9 +1,24 @@
-.container{
-  justify-content: space-evenly;
-  margin: 0 auto; 
+header {
+  height: 100px;
+  flex-direction: row;
+  display: flex;
+  justify-content: space-between;
 }
 
-.c2, .c3, .c4,.c5{
-  width: calc(50% - 20px)
+header figure {
+  margin-left: 2rem;
+  margin: 0rem 1rem;
 }
-  
+
+header figure img {
+  width: 6rem;
+}
+
+.lista li {
+  font-size: 2rem;
+  margin: 0rem 1rem;
+}
+
+header nav {
+  margin-right: 1rem;
+}
