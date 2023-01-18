@@ -1,9 +1,0 @@
-.container{
-  justify-content: space-evenly;
-  margin: 0 auto; 
-}
-
-.c2, .c3, .c4,.c5{
-  width: calc(50% - 20px)
-}
-  
